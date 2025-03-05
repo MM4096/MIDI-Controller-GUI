@@ -1,0 +1,23 @@
+{
+  "name": "midi-controller-application",
+  "version": "1.0.0",
+  "description": "GUI for MIDI-Controller (https://github.com/MM4096/MIDI-Controller)",
+  "homepage": "https://github.com/MM4096/MIDI-Controller-GUI#readme",
+  "bugs": {
+    "url": "https://github.com/MM4096/MIDI-Controller-GUI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MM4096/MIDI-Controller-GUI.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^35.0.0"
+  }
+}
